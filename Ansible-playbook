@@ -35,13 +35,13 @@ This My first github file device APIs we played with in this class are :
 * Data Model YANG&Openconfig 
 * documentation : YANG&Openconfig
 
-5 - IOSXE 
+7 - IOSXE 
 * API1: NETCONF 
 * encoding : xml
 * Data Model YANG&Openconfig 
 * documentation : YANG&Openconfig 
 
-6 - IOSXE
+8 - IOSXE
 * API1: RESTCONF
 * encoding : json&xml
 * Data Model YANG&Openconfig 
