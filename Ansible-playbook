@@ -1,0 +1,48 @@
+This My first github file device APIs we played with in this class are :
+1 - ASA 
+* API rest 
+* encoding : json
+* dataModel : properitery 
+* documentation : https://asa/doc/
+
+2 - Nexus 
+* API1: NX-API CLI 
+* encoding : xml&json&json-rpc
+* data Model properitery 
+* documentation : http://nxosv
+
+3 - Nexus 
+* API2: NX-API REST 
+* encoding : json
+* data Model : MIM
+* documentation : http://nexus/visore.html
+
+4 - Nexus 
+* API3: NETCONF 
+* encoding : json
+* Data Model : XSD&YANG 
+* documentation : NONE (xmlin&xmlout&xmlagent&manula parsing)
+
+5 - IOSXR 
+* API1: NETCONF 
+* encoding : xml
+* Data Model YANG&Openconfig 
+* documentation : YANG&Openconfig 
+
+6 - IOSXR 
+* API1: RESTCONF
+* encoding : json&xml
+* Data Model YANG&Openconfig 
+* documentation : YANG&Openconfig
+
+5 - IOSXE 
+* API1: NETCONF 
+* encoding : xml
+* Data Model YANG&Openconfig 
+* documentation : YANG&Openconfig 
+
+6 - IOSXE
+* API1: RESTCONF
+* encoding : json&xml
+* Data Model YANG&Openconfig 
+* documentation : YANG&Openconfig
